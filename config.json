@@ -1,5 +1,5 @@
 {
-  "check-site": "https://google.com",
+  "check-site": "https://www.bing.com",
   "proxy-type": "http",
 
   "http_threads": 2000,

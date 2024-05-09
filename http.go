@@ -31,7 +31,7 @@ type Proxy struct {
 
 var Proxies = &Proxy{
 	// in work
-	targetSites: []string{"https://google.com", "https://cloudflare.com"},
+	targetSites: []string{"https://www.bing.com", "https://cloudflare.com"},
 
 	httpStatusValidation: false,
 	// now cfg file
